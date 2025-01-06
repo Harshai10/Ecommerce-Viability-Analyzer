@@ -15,5 +15,5 @@ This tool helps analyze the viability of campaigns by modeling different scenari
    pip install -r requirements.txt
 
 ## Output
-
+![image]https://github.com/Harshai10/Ecommerce-Viability-Analyzer/blob/main/image.png
 
