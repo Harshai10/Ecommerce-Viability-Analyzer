@@ -12,5 +12,4 @@ This tool helps analyze the viability of campaigns by modeling different scenari
 ## Setup
 
 1. Install requirements:
-2. ```bash
-pip install -r requirements.txt
+ ```bash pip install -r requirements.txt
